@@ -1,5 +1,3 @@
 # hello-world
 
-Just another repository
-
-My first changes
+My first repository
